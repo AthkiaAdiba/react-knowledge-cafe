@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/QmyqBsR/laptop-office-plant-black-background-top-view.jpg",
+        "title": "Top 10 ES6 Feature You Must Know",
+        "author_name": "Hamza Sohail",
+        "author_img": "https://i.ibb.co/vwmLPZW/flirty-young-female-student-reading-book-table.jpg",
+        "posted_date": "Mar 14 (4 Days ago)",
+        "reading_time": 5,
+        "hashtags": [
+            "adventure",
+            "mystery"
+            
+        ]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co/93kXpdB/technology-communication-icons-symbols-concept.jpg",
+        "title": "Top 10 ES6 Feature You Must Know",
+        "author_name": "F. Fantasy",
+        "author_img": "https://i.ibb.co/vwmLPZW/flirty-young-female-student-reading-book-table.jpg",
+        "posted_date": "Mar 14 (4 Days ago)",
+        "reading_time": 8,
+        "hashtags": [
+            "fantasy",
+            "magic"
+           
+        ]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/Qd951Yp/online-message-blog-chat-communication-envelop-graphic-icon-concept.jpg",
+        "title": "Top 10 ES6 Feature You Must Know",
+        "author_name": "S. Suspense",
+        "author_img": "https://i.ibb.co/vwmLPZW/flirty-young-female-student-reading-book-table.jpg",
+        "posted_date": "Mar 14 (4 Days ago)",
+        "reading_time": 10,
+        "hashtags": [
+            "thriller",
+            "suspense"
+            
+        ]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co/Qd951Yp/online-message-blog-chat-communication-envelop-graphic-icon-concept.jpg",
+        "title": "Top 10 ES6 Feature You Must Know",
+        "author_name": "E. Explorer",
+        "author_img": "https://i.ibb.co/vwmLPZW/flirty-young-female-student-reading-book-table.jpg",
+        "posted_date": "Mar 14 (4 Days ago)",
+        "reading_time": 5,
+        "hashtags": [
+            "sciencefiction",
+            "space"
+            
+        ]
+    },
+    {
+        "id": 5,
+        "cover": "https://i.ibb.co/Qd951Yp/online-message-blog-chat-communication-envelop-graphic-icon-concept.jpg",
+        "title": "Top 10 ES6 Feature You Must Know",
+        "author_name": "R. Romance",
+        "author_img": "https://i.ibb.co/vwmLPZW/flirty-young-female-student-reading-book-table.jpg",
+        "posted_date": "Mar 14 (4 Days ago)",
+        "reading_time": 9,
+        "hashtags": [
+            "romance",
+            "adventure"
+            
+        ]
+    }
+]
