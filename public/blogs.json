@@ -6,7 +6,7 @@
         "author_name": "Hamza Sohail",
         "author_img": "https://i.ibb.co/vwmLPZW/flirty-young-female-student-reading-book-table.jpg",
         "posted_date": "Mar 14 (4 Days ago)",
-        "reading_time": 5,
+        "time": 5,
         "hashtags": [
             "adventure",
             "mystery"
@@ -20,7 +20,7 @@
         "author_name": "F. Fantasy",
         "author_img": "https://i.ibb.co/vwmLPZW/flirty-young-female-student-reading-book-table.jpg",
         "posted_date": "Mar 14 (4 Days ago)",
-        "reading_time": 8,
+        "time": 8,
         "hashtags": [
             "fantasy",
             "magic"
@@ -34,7 +34,7 @@
         "author_name": "S. Suspense",
         "author_img": "https://i.ibb.co/vwmLPZW/flirty-young-female-student-reading-book-table.jpg",
         "posted_date": "Mar 14 (4 Days ago)",
-        "reading_time": 10,
+        "time": 10,
         "hashtags": [
             "thriller",
             "suspense"
@@ -48,7 +48,7 @@
         "author_name": "E. Explorer",
         "author_img": "https://i.ibb.co/vwmLPZW/flirty-young-female-student-reading-book-table.jpg",
         "posted_date": "Mar 14 (4 Days ago)",
-        "reading_time": 5,
+        "time": 5,
         "hashtags": [
             "sciencefiction",
             "space"
@@ -62,7 +62,7 @@
         "author_name": "R. Romance",
         "author_img": "https://i.ibb.co/vwmLPZW/flirty-young-female-student-reading-book-table.jpg",
         "posted_date": "Mar 14 (4 Days ago)",
-        "reading_time": 9,
+        "time": 9,
         "hashtags": [
             "romance",
             "adventure"
